@@ -15,6 +15,15 @@ const Navbar = () => {
                         <NavItem>
                             <NavLinks to='about-me'>About Me</NavLinks>
                         </NavItem>
+                        <NavItem>
+                            <NavLinks to='blog'>Blog</NavLinks>
+                        </NavItem>
+                        <NavItem>
+                            <NavLinks to='leetcode'>Leetcode</NavLinks>
+                        </NavItem>
+                        <NavItem>
+                            <NavLinks to='resume'>Resume</NavLinks>
+                        </NavItem>
                     </NavMenu>
                 </NavbarContainer>
             </Nav>
